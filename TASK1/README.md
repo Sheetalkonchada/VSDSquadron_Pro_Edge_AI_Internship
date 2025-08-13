@@ -75,3 +75,12 @@ The FE310-G002 supports robust debugging.
 | **Standby Mode** | Low-power standby mode                       |
 | **Supply Voltages (Chip)** | Core Logic: 1.8V, I/O Pads & AON Block: 3.3V |
 | **Typical Current (Chip)** | IVDD: 8mA (16MHz), 16mA (250MHz). VDD: 8mA (16MHz), 150mA (250MHz). |
+
+#BASIC WELCOME PROGRAM UPLOAD ON BOARD
+## STEPS TO FOLLOW FOR INSTALLATION OF SOFTWARE:
+1)HH
+2)
+
+## ABOUT SOFTWARES:
+
+## DEMO VIDEO:
